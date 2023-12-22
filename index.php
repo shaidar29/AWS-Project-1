@@ -24,7 +24,7 @@ background-size: 100% 100%">
 </tr>
 </table>
 </div>
-</div>
+</div> 
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
